@@ -2,7 +2,7 @@
 
 ## First week exercise
 
-- (week-1-exercise.ipynb)
+- [exercise](week-1-exercise.ipynb)
 
 ## Second week exercise
 
