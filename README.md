@@ -16,3 +16,7 @@
 - [exercise-v2](week-3-exercises/week-3-exercise-v2.ipynb)
 - [exercise-v1-data](data/simple_vegetable_sales_data.csv)
 - [exercise-v2-data](data/top50.csv)
+
+
+## Fourth week exercise
+- [exercise(API integration)](week-4-exercises/week-4-exercise.ipynb)
